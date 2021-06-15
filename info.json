@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "59bb5d7eabf33415f86541cbf6ab0c1da7c18866",
+    "author": "khufkens <koen.hufkens@gmail.com>",
+    "time": "2021-06-15 14:17:43",
+    "files": 26,
+    "merge": false,
+    "message": "docs\n"
+  },
+  "remote": "https://github.com/ropensci/MODISTools",
+  "pkg": "MODISTools"
+}
